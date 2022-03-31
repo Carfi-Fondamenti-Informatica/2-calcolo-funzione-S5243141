@@ -9,11 +9,13 @@ int main(){
    
    if ((x<0) && (y>0)) {
        z = (a*x)-(b*y);
+      cout << z << endl;
    } else if ((x>=0) && (y<=0)) {
        z = (a*(x*x))-(b*y);
+      cout << z << endl;
    } else {
        z = (a*x)+(b*(y*y));
+      cout << z << endl;
    }
-   cout << z << endl;
    return 0;
 }
