@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-   float a, b, x, y, z;
+   float a=0, b=0, x=0, y=0, z=0;
    
    cin >> a >> b >> x >> y;
    
