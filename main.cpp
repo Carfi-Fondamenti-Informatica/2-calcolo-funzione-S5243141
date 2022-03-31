@@ -2,8 +2,7 @@
 using namespace std;
 
 int main(){
-   float a, b, x, y;
-   float z;
+   float a, b, x, y, z;
    
    cin >> a >> b >> x >> y;
    
